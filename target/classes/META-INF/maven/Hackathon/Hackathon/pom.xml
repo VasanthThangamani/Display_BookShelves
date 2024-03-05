@@ -32,8 +32,6 @@
 			</plugins>
 		</pluginManagement>
 	</build>
-	has context menu
-Compose
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 		<dependency>
