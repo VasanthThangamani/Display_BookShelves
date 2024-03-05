@@ -1,0 +1,56 @@
+17:30:22.209 [main] INFO  testcases.TC001_BookShelves - ------Choosing Birthday/Anniversay-------
+17:30:22.262 [main] INFO  testcases.TC001_BookShelves - ------Select the gift amount-------
+17:30:22.744 [main] INFO  testcases.TC001_BookShelves - ------Filling the form Lucky person-------
+17:30:22.966 [main] INFO  testcases.TC001_BookShelves - ------Clearing the Form-------
+17:30:23.314 [main] INFO  testcases.TC001_BookShelves - ------Enter the valid Email-------
+17:33:24.411 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2308536\eclipse-workspace\Hackathon\Grouping.xml
+
+17:33:31.531 [main] INFO  testcases.TC001_BookShelves - ------Select BookShelves-------
+17:33:33.050 [main] INFO  testcases.TC001_BookShelves - ------Handled the popup-------
+17:33:38.391 [main] INFO  testcases.TC001_BookShelves - ------Choosing product under ₹15,000-------
+17:33:46.021 [main] INFO  testcases.TC001_BookShelves - ------Choosing the product category-------
+17:33:46.252 [main] INFO  testcases.TC001_BookShelves - ------Clicking the Checkbox exclude out of stock-------
+17:33:51.510 [main] INFO  testcases.TC001_BookShelves - ------Printing the product details-------
+17:33:52.877 [main] INFO  testcases.TC001_BookShelves - ------Mouse hovering to the header Living-------
+17:33:56.213 [main] INFO  testcases.TC001_BookShelves - ------Printing the menu list of seating&chairs-------
+17:34:00.154 [main] INFO  testcases.TC001_BookShelves - ------Clicked the Giftcards-------
+17:34:00.156 [main] INFO  testcases.TC001_BookShelves - ------Choosing Birthday/Anniversay-------
+17:34:00.187 [main] INFO  testcases.TC001_BookShelves - ------Select the gift amount-------
+17:34:00.710 [main] INFO  testcases.TC001_BookShelves - ------Filling the form Lucky person-------
+17:34:00.956 [main] INFO  testcases.TC001_BookShelves - ------Clearing the Form-------
+17:34:01.302 [main] INFO  testcases.TC001_BookShelves - ------Enter the valid Email-------
+17:39:52.116 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2308536\eclipse-workspace\Hackathon\Grouping.xml
+
+17:39:58.714 [main] INFO  testcases.TC001_BookShelves - ------Select BookShelves-------
+17:40:01.149 [main] INFO  testcases.TC001_BookShelves - ------Handled the popup-------
+17:40:06.210 [main] INFO  testcases.TC001_BookShelves - ------Choosing product under ₹15,000-------
+17:40:13.845 [main] INFO  testcases.TC001_BookShelves - ------Choosing the product category-------
+17:40:14.053 [main] INFO  testcases.TC001_BookShelves - ------Clicking the Checkbox exclude out of stock-------
+17:40:19.322 [main] INFO  testcases.TC001_BookShelves - ------Printing the product details-------
+17:40:20.919 [main] INFO  testcases.TC001_BookShelves - ------Mouse hovering to the header Living-------
+17:40:24.231 [main] INFO  testcases.TC001_BookShelves - ------Printing the menu list of seating&chairs-------
+17:40:30.151 [main] INFO  testcases.TC001_BookShelves - ------Clicked the Giftcards-------
+17:40:30.153 [main] INFO  testcases.TC001_BookShelves - ------Choosing Birthday/Anniversay-------
+17:40:30.198 [main] INFO  testcases.TC001_BookShelves - ------Select the gift amount-------
+17:40:30.666 [main] INFO  testcases.TC001_BookShelves - ------Filling the form Lucky person-------
+17:40:30.885 [main] INFO  testcases.TC001_BookShelves - ------Clearing the Form-------
+17:40:31.223 [main] INFO  testcases.TC001_BookShelves - ------Enter the valid Email-------
+17:44:24.961 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2308536\eclipse-workspace\Hackathon\Grouping.xml
+
+17:44:31.621 [main] INFO  testcases.TC001_BookShelves - ------Select BookShelves-------
+17:44:33.660 [main] INFO  testcases.TC001_BookShelves - ------Handled the popup-------
+17:44:38.698 [main] INFO  testcases.TC001_BookShelves - ------Choosing product under ₹15,000-------
+17:44:46.334 [main] INFO  testcases.TC001_BookShelves - ------Choosing the product category-------
+17:44:46.566 [main] INFO  testcases.TC001_BookShelves - ------Clicking the Checkbox exclude out of stock-------
+17:44:51.802 [main] INFO  testcases.TC001_BookShelves - ------Printing the product details-------
+17:44:53.342 [main] INFO  testcases.TC001_BookShelves - ------Mouse hovering to the header Living-------
+17:44:56.662 [main] INFO  testcases.TC001_BookShelves - ------Printing the menu list of seating&chairs-------
+17:45:01.465 [main] INFO  testcases.TC001_BookShelves - ------Clicked the Giftcards-------
+17:45:01.468 [main] INFO  testcases.TC001_BookShelves - ------Choosing Birthday/Anniversay-------
+17:45:01.514 [main] INFO  testcases.TC001_BookShelves - ------Select the gift amount-------
+17:45:02.121 [main] INFO  testcases.TC001_BookShelves - ------Filling the form Lucky person-------
+17:45:02.892 [main] INFO  testcases.TC001_BookShelves - ------Clicking the confirm button-------
+17:45:05.973 [main] INFO  testcases.TC001_BookShelves - ------Getting the error message-------
