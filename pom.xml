@@ -3,6 +3,37 @@
 	<groupId>Hackathon</groupId>
 	<artifactId>Hackathon</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<build>
+
+		<pluginManagement>
+			<plugins>
+				<!-- compliles our project-->
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-compiler-plugin</artifactId>
+					<version>3.12.1</version>
+				</plugin>
+
+				<!-- RUNNING OUR PROJECT-->
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-surefire-plugin</artifactId>
+					<version>3.2.5</version>
+
+					<!-- run a xml file in side sure fire plugin-->
+					<configuration>
+						<suiteXmlFiles>
+							<suiteXmlFile>Grouping.xml</suiteXmlFile>
+							<!-- multiple xml file can be run-->
+							<!--<suiteXmlFile>grouping.xml</suiteXmlFile> -->
+						</suiteXmlFiles>
+					</configuration>
+				</plugin>
+			</plugins>
+		</pluginManagement>
+	</build>
+	has context menu
+Compose
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 		<dependency>
